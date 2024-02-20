@@ -1,5 +1,3 @@
-<img src="https://github.com/farishelmi17/SpaceX/blob/main/Screen%20Shot%202022-04-16%20at%2011.01.08%20PM.png">
-
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
 <a href="https://colab.research.google.com/github/ADGVLOGS/adgmlclass/blob/main/ADGMLCLASSDemo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
